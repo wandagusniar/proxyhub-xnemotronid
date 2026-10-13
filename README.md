@@ -2,7 +2,9 @@
 
 # PROXYHUB
 
-**A self-hosted multi-provider AI gateway and access management platform.**
+ProxyHub is a self-hosted AI API gateway built on top of New API and deployed on a VPS.
+
+The project is currently active and undergoing an ongoing transition toward Swimore.ai, with plans to develop a more customized user experience and a modular AI gateway architecture.
 
 Built on top of [New API](https://github.com/QuantumNous/new-api)
 
